@@ -27,7 +27,7 @@ Accessibility is a core requirement, not an afterthought. Key considerations inc
 1. Prerequisites: .NET 8 SDK installed.
 2. Clone: Clone this repository:
 ```
-git clone <your-repository-url>
+git clone https://github.com/jonnymuir/umbraco-daw.git
 cd umbraco-daw
 ```
 3. Navigate to Web Project:
